@@ -1,0 +1,3 @@
+[submodule "opencti-connector-disinfo"]
+	path = opencti-connector-disinfo
+	url = git@github.com:CyberDataLab/opencti-connector-disinfo.git
